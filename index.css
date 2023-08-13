@@ -10,7 +10,6 @@
     background: url(images/landscape1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
     background-position: center;
     
 }
@@ -21,4 +20,14 @@ p{
     margin-left: 50px;
     margin-right: 15px;
     color: white;
+}
+.element-3 img{
+    margin-left: 15px;
+}
+.element-3{
+    margin-top: 20px;
+}
+.element-4 img{
+    margin-left: 15px;
+    margin-top: 10px;
 }
