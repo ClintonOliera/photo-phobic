@@ -17,8 +17,8 @@ This is a website showing a gallery of my favorite photos and active links to th
 * CSS
 
 # Screenshots
-    ![Alt text](/images/Capture-1.PNG?raw=true "Optional Title")
-    ![Alt text](/images/Capture-3.PNG?raw=true "Optional Title")
+    ![Capture-1](https://github.com/ClintonOliera/photo-phobic/assets/62715612/b09b9cd9-598a-46d4-925e-f869606d12dd)
+    ![Capture-3](https://github.com/ClintonOliera/photo-phobic/assets/62715612/b0755d27-6af4-43d5-8843-14401837293f)
 
 # License
 * This repository is under MIT license
