@@ -1,6 +1,24 @@
-body{
+/* body{
     background: url(images/landscape1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    background-position: center;
+    opacity: 0.4;
+} */
+.element-1{
+    background: url(images/landscape1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    
+}
+h2{
+    text-align: center;
+}
+p{
+    margin-left: 50px;
+    margin-right: 15px;
+    color: white;
 }
