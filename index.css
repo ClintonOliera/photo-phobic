@@ -39,8 +39,19 @@ p{
 
 }
 h3{
-    margin-left: 15px;
+    margin-left: 45px;
     color: white;
     margin-top: 10px;
     margin-bottom: 0px;
+}
+form{
+    margin-top: 30px;
+}
+label{
+    color: white;
+}
+input{
+    width: 30%;
+    height: 20px;
+    border-radius: 5px;
 }
