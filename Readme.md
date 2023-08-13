@@ -17,8 +17,8 @@ This is a website showing a gallery of my favorite photos and active links to th
 * CSS
 
 # Screenshots
-<img src="images/capture-1.PNG">
-<img src="images/capture-3.PNG">
+<img src="images/Capture-1.PNG">
+<img src="images/Capture-3.PNG">
 
 # License
 * This repository is under MIT license
